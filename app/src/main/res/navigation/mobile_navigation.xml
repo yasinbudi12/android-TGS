@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_weight">
+
+    <fragment
+        android:id="@+id/nav_weight"
+        android:name="id.conversion.app.ui.weight.WeightFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_weight" />
+
+    <fragment
+        android:id="@+id/nav_distance"
+        android:name="id.conversion.app.ui.distance.DistanceFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_distance" />
+
+    <fragment
+        android:id="@+id/nav_volume"
+        android:name="id.conversion.app.ui.volume.VolumeFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_volume" />
+
+    <fragment
+        android:id="@+id/nav_time"
+        android:name="id.conversion.app.ui.time.TimeFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_time" />
+
+    <fragment
+        android:id="@+id/nav_currency"
+        android:name="id.conversion.app.ui.currency.CurrencyFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_currency" />
+
+</navigation>

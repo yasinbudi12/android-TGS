@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "plan": "Yang Bikin Cuan Tiap Hari - 5 GB",
+    "description": "Kuota ini cuma bisa dibeli sekali di sini",
+    "price": "Rp 15.000"
+  },
+  {
+    "id": 2,
+    "plan": "Yang Bikin Makin Aman Jaya - 1.5 Mbps",
+    "description": "Masa berlaku 7 hari. Aman untuk streaming kualitas 480p",
+    "price": "Rp 40.000"
+  },
+  {
+    "id": 3,
+    "plan": "Yang Dicap Dua Jempol - 50 GB",
+    "description": "Kuota utuh tanpa dibagi-bagi jaringan, lokasi, dan aplikasi",
+    "price": "Rp 120.000"
+  }
+]

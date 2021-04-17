@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_weight"
+            android:icon="@drawable/ic_svg_menu_weight"
+            android:title="@string/menu_weight" />
+        <item
+            android:id="@+id/nav_distance"
+            android:icon="@drawable/ic_svg_menu_distance"
+            android:title="@string/menu_distance" />
+        <item
+            android:id="@+id/nav_volume"
+            android:icon="@drawable/ic_svg_menu_volume"
+            android:title="@string/menu_volume" />
+        <item
+            android:id="@+id/nav_time"
+            android:icon="@drawable/ic_baseline_access_time_filled_24"
+            android:title="@string/menu_time" />
+        <item
+            android:id="@+id/nav_currency"
+            android:icon="@drawable/ic_svg_menu_currency"
+            android:title="@string/menu_currency" />
+    </group>
+
+</menu>

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "pulsa",
+    "name": "Pulsa & Data",
+    "res": "ic_svg_menu_smartphone"
+  },
+  {
+    "code": "electric",
+    "name": "Listrik",
+    "res": "ic_svg_menu_electric"
+  },
+  {
+    "code": "tv",
+    "name": "TV Kabel",
+    "res": "ic_svg_menu_tv_cable"
+  },
+  {
+    "code": "postpaid",
+    "name": "Pascabayar",
+    "res": "ic_svg_menu_calendar"
+  },
+  {
+    "code": "card",
+    "name": "Kartu Elektronik",
+    "res": "ic_svg_menu_credit_card"
+  },
+  {
+    "code": "transport",
+    "name": "Transportasi",
+    "res": "ic_svg_menu_train"
+  },
+  {
+    "code": "water",
+    "name": "PDAM",
+    "res": "ic_svg_menu_water_drop"
+  },
+  {
+    "code": "more",
+    "name": "Lainnya",
+    "res": "ic_svg_menu_all"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "pulsa",
+    "name": "Phone Credit",
+    "res": "ic_svg_menu_smartphone"
+  },
+  {
+    "code": "electric",
+    "name": "Electricity",
+    "res": "ic_svg_menu_electric"
+  },
+  {
+    "code": "tv",
+    "name": "TV Cable",
+    "res": "ic_svg_menu_tv_cable"
+  },
+  {
+    "code": "postpaid",
+    "name": "Postpaid",
+    "res": "ic_svg_menu_calendar"
+  },
+  {
+    "code": "card",
+    "name": "E-Money",
+    "res": "ic_svg_menu_credit_card"
+  },
+  {
+    "code": "transport",
+    "name": "Transportation",
+    "res": "ic_svg_menu_train"
+  },
+  {
+    "code": "water",
+    "name": "PDAM",
+    "res": "ic_svg_menu_water_drop"
+  },
+  {
+    "code": "more",
+    "name": "More",
+    "res": "ic_svg_menu_all"
+  }
+]

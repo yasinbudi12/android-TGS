@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Bottom Navigation + Fab Navigation -->
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">10sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">10sp</dimen>
+
+    <dimen name="design_fab_image_size" tools:override="true">56dp</dimen>
+    <dimen name="design_bottom_navigation_height" tools:override="true">62dp</dimen>
+
+    <dimen name="transaction_padding_bottom">128dp</dimen>
+    <dimen name="padding_null">0dp</dimen>
+
+    <dimen name="bottom_nav_item_icon_size">32dp</dimen>
+    <dimen name="fab_cradle_margin">8dp</dimen>
+    <dimen name="fab_cradle_rounded_corner_radius">90dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">240dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

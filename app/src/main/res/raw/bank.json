@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "bankName": "BCA",
+    "res": "ic_svg_bank_bca"
+  },
+  {
+    "id": 2,
+    "bankName": "Mandiri",
+    "res": "ic_svg_bank_mandiri"
+  },
+  {
+    "id": 3,
+    "bankName": "BNI",
+    "res": "ic_svg_bank_bni"
+  },
+  {
+    "id": 4,
+    "bankName": "BRI",
+    "res": "ic_svg_bank_bri"
+  }
+]

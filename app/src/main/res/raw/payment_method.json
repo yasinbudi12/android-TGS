@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "section": "Virtual Account",
+    "payment_method": null,
+    "virtual_account": null,
+    "account_number": null,
+    "res": null
+  },
+  {
+    "id": 2,
+    "section": null,
+    "payment_method": "BCA Virtual Account",
+    "virtual_account": "3604 0439 3930 1018",
+    "account_number": null,
+    "res": "ic_svg_bank_bca"
+  },
+  {
+    "id": 3,
+    "section": "Transfer Bank (Verifikasi Manual)",
+    "payment_method": null,
+    "virtual_account": null,
+    "account_number": null,
+    "res": null
+  },
+  {
+    "id": 4,
+    "section": null,
+    "payment_method": "Transfer Bank BCA",
+    "virtual_account": null,
+    "account_number": "3721785066",
+    "res": "ic_svg_bank_bca"
+  },
+  {
+    "id": 5,
+    "section": null,
+    "payment_method": "Transfer Bank Mandiri",
+    "virtual_account": null,
+    "account_number": "3721785066",
+    "res": "ic_svg_bank_mandiri"
+  },
+  {
+    "id": 6,
+    "section": null,
+    "payment_method": "Transfer Bank BNI",
+    "virtual_account": null,
+    "account_number": "3721785066",
+    "res": "ic_svg_bank_bni"
+  },
+  {
+    "id": 7,
+    "section": null,
+    "payment_method": "Transfer Bank BRI",
+    "virtual_account": null,
+    "account_number": "3721785066",
+    "res": "ic_svg_bank_bri"
+  }
+]

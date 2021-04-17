@@ -1,0 +1,92 @@
+[
+  {
+    "section": "Telecommunication",
+    "menu": [
+      {
+        "code": "pulsa",
+        "name": "Phone Credit",
+        "res": "ic_svg_menu_smartphone"
+      },
+      {
+        "code": "roaming",
+        "name": "Roaming",
+        "res": "ic_svg_menu_roaming"
+      }
+    ]
+  },
+  {
+    "section": "Buy / Pay Bills",
+    "menu": [
+      {
+        "code": "electric",
+        "name": "Electricity",
+        "res": "ic_svg_menu_electric"
+      },
+      {
+        "code": "water",
+        "name": "PDAM",
+        "res": "ic_svg_menu_water_drop"
+      },
+      {
+        "code": "tv",
+        "name": "TV Cable",
+        "res": "ic_svg_menu_tv_cable"
+      },
+      {
+        "code": "wifi",
+        "name": "Wifi",
+        "res": "ic_svg_menu_wifi"
+      },
+      {
+        "code": "postpaid",
+        "name": "Postpaid",
+        "res": "ic_svg_menu_calendar"
+      }
+    ]
+  },
+  {
+    "section": "Financial Services",
+    "menu": [
+      {
+        "code": "bpjs",
+        "name": "BPJS",
+        "res": "ic_svg_menu_bpjs"
+      },
+      {
+        "code": "gold",
+        "name": "Gold",
+        "res": "ic_svg_menu_gold"
+      },
+      {
+        "code": "insurance",
+        "name": "Insurance",
+        "res": "ic_svg_menu_insurance"
+      }
+    ]
+  },
+  {
+    "section": "Entertaiment",
+    "menu": [
+      {
+        "code": "game",
+        "name": "Game Voucher",
+        "res": "ic_svg_menu_game_console"
+      },
+      {
+        "code": "movies",
+        "name": "Movies",
+        "res": "ic_svg_menu_movies"
+      }
+    ]
+  },
+  {
+    "section": "E-Money & Other E-Card",
+    "menu": [
+      {
+        "code": "card",
+        "name": "E-Money",
+        "res": "ic_svg_menu_credit_card"
+      }
+    ]
+  }
+]
